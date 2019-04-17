@@ -1,0 +1,156 @@
+html {
+	font-family:微软雅黑;
+}
+
+body {
+	background:url(http://api.boee8.com/LingMan-images.php)no-repeat center center fixed;
+}
+
+.button-collapse {
+	color:#fff;
+}
+
+nav {
+	position:fixed;
+	z-index:9999;
+	margin-top:-100px;
+}
+
+nav ul a, nav .brand-logo {
+	color:#fff;
+	font-family:微软雅黑;
+}
+
+#content-div {
+	margin-top:56px;
+	
+}
+
+#top-logo {
+	width:200px;
+	height:200px;
+	border-radius:200px;
+	margin:100px auto 0px;
+	box-shadow:5px 5px 5px rgba(0,0,0,0.3);
+}
+
+#top-logo img {
+		width:200px;
+	height:200px;
+	border-radius:200px;
+	margin:0px auto 0px;
+	transition:1.5s all;
+}
+
+.top-banner {
+	width:100%;
+	height:100px;
+	margin-bottom:50px;
+	line-height:100px;
+	color:#fff;
+	text-align:center;
+	font-weight:bold;
+	font-size:3.5em;
+	text-shadow:2px 2px 5px rgba(0,0,0,0.3),-2px 2px 5px rgba(0,0,0,0.3),2px -2px 5px rgba(0,0,0,0.3),-2px -2px 5px rgba(0,0,0,0.3);
+}
+
+#top-logo img:hover {
+	transform:rotate(360deg);
+}
+
+.parallax-container {
+	height:550px;
+}
+
+.teal-text.text-lighten-2 {
+	color:#fff !important;
+	font-family:微软雅黑;
+	margin-top:100px;
+}
+
+#index-banner .row .col.s12 {
+	color:#fff;
+	margin-top:30px;
+}
+
+.row-b {
+	width:60%;
+	margin:0px auto 0px;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.brown-text {
+	color:#039be5 !important;
+}
+
+#mini {
+	width:90%;
+	max-width:500px;
+	margin:0px auto 0px;
+	padding-top:50px;
+	padding-bottom:150px;
+}
+
+.input-field.col label {
+	left:0;
+}
+
+.bottom-fixed {
+	width:100%;
+	position:fixed;
+	bottom:0px;
+}
+
+.box-card {
+	width:95%;
+	max-width:1000px;
+	background:#f44;
+	padding:20px;
+	margin:0px auto 20px;
+	color:#fff;
+}
+
+#info-card {
+	width:100%;
+	max-width:1000px;
+	margin:0px auto 0px;
+}
+
+.info {
+	width:95%;
+	margin:0px auto 0px;
+	border-bottom:1px solid #000;
+	font-size:1em;
+	height:60px;
+	line-height:60px;
+	margin-bottom:0px;
+	color:#000;
+	font-weight:bold;
+	transition:0.5s all;
+}
+
+.info:hover {
+	width:80%;
+}
+
+.left-box {
+	float:left;
+	margin-left:3%;
+}
+.right-box {
+	float:right;
+	margin-right:3%;
+}
+
+.player-info {
+	width:95%;
+	padding:10px;
+	color:#fff;
+	margin:0px auto 0px;
+}
